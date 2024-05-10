@@ -1,6 +1,6 @@
 title: "Adam's Personal Website"
 author: "Adam Chen"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "A place of my own to geek out."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
