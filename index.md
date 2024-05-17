@@ -12,12 +12,9 @@ title: "Hello! I'm Adam Chen 👋"
      height="300" 
   />
 
-
-I'm a civil engineer with a passion for creating sustainable urban spaces. With over a decade of experience in the field, I've had the opportunity to work on some amazing projects that aim to make our cities greener and more efficient.
+Thank you for visiting my site! I'm a Master's student in Systems Engineering at the Univeristy of Arizona, and I love intelligent, complex systems that interface with the physical world. I'm an aspiring smart maufacturing engineering, and I'm passionate about the 4th Industrial Revolution.
 
 ### A Little About my Journey 🚀:
-
-My engineering journey started at the University of Texas at Austin, where I fell in love with the challenge of solving complex problems. After earning my degree, I moved to California to pursue a master's in Civil Engineering at UC Berkeley, where I specialized in sustainable design.Since then, I've been fortunate enough to work on a variety of projects, from expanding metro systems to designing eco-friendly skyscrapers. One of my favorite projects was the ABC Eco-Tower, a 40-story building that's not only stunning but also LEED Platinum certified for its green features.
 
 ### What I Do 🛠️:
 
@@ -28,5 +25,5 @@ My engineering journey started at the University of Texas at Austin, where I fel
 ### A little More About Me 😆:
 
 ### Lets Connect! 📬:
-
+Check out the left margin for links to my email, LinkedIn page, and Github account. Thanks for visiting! 👋
   
