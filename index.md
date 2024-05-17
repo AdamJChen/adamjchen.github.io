@@ -21,7 +21,6 @@ My engineering journey started at the University of Texas at Austin, where I fel
 
 ### What I Do 🛠️:
 
-<br>
 ### Skills and Tools 💻:
 
 ### What Drives Me 🌎:
