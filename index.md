@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hello! I'm Adam Chen 👋"
+title: "Hello! I'm Adam 👋"
 ---
 <img 
      style="display: block; 
@@ -12,7 +12,9 @@ title: "Hello! I'm Adam Chen 👋"
      height="300" 
   />
 
-Thank you for visiting my site! I'm a Master's student in Systems Engineering at the Univeristy of Arizona, and I love intelligent, complex systems that interface with the physical world. I'm an aspiring smart maufacturing engineering, and I'm passionate about the 4th Industrial Revolution.
+Welcome to my personl website! I'm using this site as a bit of a portfolio for geeky, engineering stuff.
+
+I'm a Master's student in Systems Engineering at the Univeristy of Arizona, and I love intelligent, complex systems that interface with the physical world. I'm an aspiring smart maufacturing engineering, and I'm passionate about the 4th Industrial Revolution.
 
 ### A Little About my Journey 🚀:
 
