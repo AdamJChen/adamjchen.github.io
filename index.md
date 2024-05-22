@@ -43,7 +43,7 @@ Lean
 ### What Drives Me 🌎:
 We only have one world, so I believe we should take care of it and the beings that live there. I'm deeply passionate about leveraging the Fourth Industrial Revolution to foster equity and sustainability. I believe that advancements in technology and smart systems can play a crucial role in creating fairer, more sustainable societies. I aim to integrate these innovations into manufacturing, ensuring that technological progress benefits everyone.
 
-I also have an insatiable thirst for learning 📚. Whether it's exploring new engineering techniques, staying updated on the latest sustainability practices, or diving into new technologies, I'm always eager to expand my knowledge and skills.
+I also have an insatiable thirst for learning. Whether it's exploring new engineering techniques, staying updated on the latest sustainability practices, or diving into new technologies, I'm always eager to expand my knowledge and skills.
 
 ### A little More About Me 🎨:
 My favorite Disney memory was not the characters or the rides, but how smoothly the parking operations worked. I have a strange obession for efficient systems, and that carries over into my other love: Long Form, Improvsied Comedy. My favorite format is the Deconstruction because of the philosophy behind it. Position play has really increased the efficiency of my scenes and allowed me to get on to the same page as my scene partners faster. Shout out to Miles Stroth and BOC (Brain James O'Connell) for teaching it to me! Improv has been my way to recharge my creative batteries, and become a better human being. You can typically find me performing at Tucson Improv Movement when I'm not engrossed in my intellectual pursuits.
