@@ -27,18 +27,9 @@ Currently, I work for the Office of Scholarship and Financial Aid at the univers
 ### Skills and Tools 💻:
 Here a sample of what's in my toolbelt:
 
-**Tools**
-Python
-Mathlab
-Simulink
-SQL
-AWS
+**Tools**: Python, Mathlab, Simulink, SQL, AWS
 
-**Skills**
-Model Based Systems Enginnering
-Simulation
-Six Sigma
-Lean
+**Skills**:Model Based Systems Enginnering, Simulation, Lean Six Sigma
 
 ### What Drives Me 🌎:
 We only have one world, so I believe we should take care of it and the beings that live there. I'm deeply passionate about leveraging the Fourth Industrial Revolution to foster equity and sustainability. I believe that advancements in technology and smart systems can play a crucial role in creating fairer, more sustainable societies. I aim to integrate these innovations into manufacturing, ensuring that technological progress benefits everyone.
