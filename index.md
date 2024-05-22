@@ -49,5 +49,5 @@ I also have an insatiable thirst for learning 📚. Whether it's exploring new e
 My favorite Disney memory was not the characters or the rides, but how smoothly the parking operations worked. I have a strange obession for efficient systems, and that carries over into my other love: Long Form, Improvsied Comedy. My favorite format is the Deconstruction because of the philosophy behind it. Position play has really increased the efficiency of my scenes and allowed me to get on to the same page as my scene partners faster. Shout out to Miles Stroth and BOC (Brain James O'Connell) for teaching it to me! Improv has been my way to recharge my creative batteries, and become a better human being. You can typically find me performing at Tucson Improv Movement when I'm not engrossed in my intellectual pursuits.
 
 ### Lets Connect! 📬:
-I'd love to hear from you! Check out the left margin for links to my Email, Github Account, and LinkedIn page. Thank you for visiting! 👋
+I'd love to hear from you! Check out below for links to my Email, Github Account, and LinkedIn page. Thank you for visiting! 👋
   
