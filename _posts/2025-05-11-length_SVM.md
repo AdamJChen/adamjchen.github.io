@@ -11,9 +11,17 @@ is the hyperplane that serves as the boundary function. The vector $\mathbf x$ r
 
 $$\frac{2}{||w||}$$
 
-Here is a quick visual to help with understanding the problem:
+Here is a quick visual to help grasp the problem at hand:
 
-
+<img 
+     style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+     src="./assets/images/svm_length_M.png" 
+     width="300" 
+     height="300" 
+  />
 
 ### The Normal Vector w
 
