@@ -18,7 +18,7 @@ Here is a quick visual to help grasp the problem at hand:
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-     src="./assets/images/svm_length_M.png" 
+     src="../assets/images/svm_length_M.png" 
      width="300" 
      height="300" 
   />
