@@ -20,8 +20,6 @@ Here is a quick visual to help grasp the problem at hand:
            margin-right: auto;
            width: 30%;"
      src="../assets/images/svm_length_M.png" 
-     width="500" 
-     height="500" 
   />
 
 ### The Normal Vector w
