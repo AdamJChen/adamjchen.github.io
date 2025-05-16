@@ -14,7 +14,9 @@ $$ \frac{2}{||w||} $$
 
 Here is a quick visual to help grasp the problem at hand:
 
-![Alt text](/assets/images/svm_length_M.png)
+<p aline= "center">
+ ![Alt text](/assets/images/svm_length_M.png)
+</p>
 
 ### The Normal Vector w
 
