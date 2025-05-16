@@ -1,6 +1,7 @@
 ---
 title: "Length of a Hard Margin in Support Vector Machines"
 layout: post
+katex: true
 ---
 ### Problem Set Up
 Suppose we have a Linear SVM with a hard margin, and
