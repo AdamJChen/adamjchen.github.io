@@ -2,3 +2,10 @@
 mjx-container {
   font-size: 130% !important;
 }
+
+/* center images */
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
