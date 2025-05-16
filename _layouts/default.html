@@ -31,7 +31,7 @@
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
  
-  {% if page.katex %}
+  {% if page.katex or post.katex%}
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
 
