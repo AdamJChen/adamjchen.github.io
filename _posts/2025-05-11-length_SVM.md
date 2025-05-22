@@ -110,7 +110,9 @@ QED baby!
 ### Tying this All Up
 Congratulations! You made it to the end of this long and dense post. So why does this matter? Other than it tickled my brain.
 
-Well, this result made the optimization problem for SVMs a lot easier. We want to maximize our margin in an SVM, and we have a very interesting result about the length. To maximize our margin we'd have to minimize our  $\mathbf w$ in (8). So we can transform this problem into minimizing $||\mathbf w||$ since (8) is scaled by a constant and the reciprocal of $||\mathbf w||$. To make it even easier we can minimize $||\mathbf w||^2$. Why is this easier? Think of a quadratic equation in 2D. 
+Well, this result made the optimization problem for SVMs a lot easier. We want to maximize our margin in an SVM, and we have a very interesting result about the length. To maximize our margin we'd have to minimize our  $\mathbf w$ in (8). So we can transform this problem into minimizing $||\mathbf w||$ since (8) is scaled by a constant and the reciprocal of $||\mathbf w||$. To make it even easier we can minimize $||\mathbf w||^2$. Why is this easier? Think of a quadratic equation in 2D:
+
+<img src="/assets/images/qudaratic.png" alt="Alt text" class="center-image">
 
 
 There's a global minimum! Thank's for reading.
