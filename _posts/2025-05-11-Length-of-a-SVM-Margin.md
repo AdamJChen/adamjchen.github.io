@@ -61,7 +61,9 @@ $$
 Where $\theta$ is the angle between $\mathbf a$ and $\mathbf b$. Since  $\mathbf w^T\cdot(\mathbf x_{i}  -  \mathbf x_{j}) =0$ we can conclude that $\mathbf w$ is orthogonal to $\mathbf x$.
 
 ### The Dot Product and Vector Projections
-So why did we need to prove to ourselves $\mathbf{w}$ was orthogonal to $H(\mathbf x)$? Because we wanted the shortest path from a data point on the edge of the boundary to $H(\mathbf x)$, and the direction that leads us to the data point the quickest from the boundary function is orthogonal to $H(\mathbf x)$ or in the same direction of $\mathbf{w}$. That's cool. Now we have to find a way of representing our data point $\mathbf x$ in terms of $\mathbf w$. We can do this with our definition of the dot product above in (3). If we divide (3) both sides by $||\mathbf b||$, we have:
+So why did we need to prove to ourselves $\mathbf{w}$ was orthogonal to $H(\mathbf x)$? Because we wanted the shortest path from a data point on the edge of the boundary to $H(\mathbf x)$, and the direction that leads us to the data point the quickest from the boundary function is orthogonal to $H(\mathbf x)$ or in the same direction of $\mathbf{w}$. That's cool.
+
+Now we have to find a way of representing our data point $\mathbf x$ in terms of $\mathbf w$. We can do this with our definition of the dot product above in (3). If we divide (3) both sides by $\left\lVert \mathbf {b} \right\rVert$, we have:
 
 $$
 \begin{equation} \tag{3}
@@ -69,7 +71,7 @@ $$
 \end{equation}
 $$
 
-We can interpret the right side of (3) as the magnitude of $\mathbf a$ projected on the direction of $\mathbf a$. Note that dividing by $||\mathbf b||$ on the right hand side is the dot product of $\mathbf a$ in the direction of a unit vector $\frac{\mathbf b}{||\mathbf b||}$. 
+We can interpret the right side of (3) as the magnitude of $\mathbf a$ projected on the direction of $\mathbf a$. Note that dividing by $\left\lVert \mathbf {b} \right\rVert$ on the right hand side is the dot product of $\mathbf a$ in the direction of a unit vector $\frac{\mathbf b}{\left\lVert \mathbf {b} \right\rVert}$. 
 
 Noice. Now how do we apply this into our problem? Remember that there is a dot product in $H(\mathbf x)$. So if we wanted to know $\mathbf x$ projected onto $\mathbf w$ we would need to divide $H(\mathbf x)$ by the magnitude of $\mathbf w$:
 
@@ -108,7 +110,7 @@ QED baby!
 ### Tying this All Up
 Congratulations! You made it to the end of this long and dense post. So why does this matter? Other than it tickled my brain.
 
-Well, this result made the optimization problem for SVMs a lot easier. We want to maximize our margin in an SVM, and we have a very interesting result about the length. To maximize our margin we'd have to minimize our  $\mathbf w$ in (8). So we can transform this problem into minimizing $||\mathbf w||$ since (8) is scaled by a constant and the reciprocal of $||\mathbf w||$. To make it even easier we can minimize $||\mathbf w||^2$. Why is this easier? Think of a quadratic equation in 2D:
+Well, this result made the optimization problem for SVMs a lot easier. We want to maximize our margin in an SVM, and we have a very interesting result about the length. To maximize our margin we'd have to minimize our  $\mathbf w$ in (8). So we can transform this problem into minimizing $\left\lVert \mathbf {w} \right\rVert$ since (8) is scaled by a constant and the reciprocal of $||\mathbf w||$. To make it even easier we can minimize $||\mathbf w||^2$. Why is this easier? Think of a quadratic equation in 2D:
 
 <img src="/assets/images/qudaratic.png" alt="Alt text" class="center-image">
 
