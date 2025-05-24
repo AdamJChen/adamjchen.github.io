@@ -66,17 +66,17 @@ So why did we need to prove to ourselves $\mathbf{w}$ was orthogonal to $H(\math
 Now we have to find a way of representing our data point $\mathbf x$ in terms of $\mathbf w$. We can do this with our definition of the dot product above in (3). If we divide (3) both sides by $\left\lVert \mathbf {b} \right\rVert$, we have:
 
 $$
-\begin{equation} \tag{3}
+\begin{equation} \tag{4}
 \frac{\mathbf a \cdot \mathbf b}{||\mathbf b||} = ||\mathbf a||\cos(\theta)
 \end{equation}
 $$
 
-We can interpret the right side of (3) as the magnitude of $\mathbf a$ projected on the direction of $\mathbf a$. Note that dividing by $\left\lVert \mathbf {b} \right\rVert$ on the right hand side is the dot product of $\mathbf a$ in the direction of a unit vector $\frac{\mathbf b}{\left\lVert \mathbf {b} \right\rVert}$. 
+We can interpret the right side of (4) as the magnitude of $\mathbf a$ projected on the direction of $\mathbf a$. Note that dividing by $\left\lVert \mathbf {b} \right\rVert$ on the right hand side is the dot product of $\mathbf a$ in the direction of a unit vector $\frac{\mathbf b}{\left\lVert \mathbf {b} \right\rVert}$. 
 
 Noice. Now how do we apply this into our problem? Remember that there is a dot product in $H(\mathbf x)$. So if we wanted to know $\mathbf x$ projected onto $\mathbf w$ we would need to divide $H(\mathbf x)$ by the magnitude of $\mathbf w$:
 
 $$
-\begin{equation} \tag{4}
+\begin{equation} \tag{5}
  \frac{|\mathbf w^T\mathbf x + b |}{||w||} 
  \end{equation}
  $$
