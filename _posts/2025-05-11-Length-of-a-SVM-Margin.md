@@ -1,6 +1,5 @@
 
 ---
-title: "Length of a Hard Margin in Support Vector Machines"
 layout: post
 mathjax: true
 ---
@@ -62,9 +61,7 @@ $$
 Where $\theta$ is the angle between $\mathbf a$ and $\mathbf b$. Since  $\mathbf w^T\cdot(\mathbf x_{i}  -  \mathbf x_{j}) =0$ we can conclude that $\mathbf w$ is orthogonal to $\mathbf x$.
 
 ### The Dot Product and Vector Projections
-So why did we need to prove to ourselves $\mathbf{w}$ was orthogonal to $H(\mathbf x)$? Because we wanted the shortest path from a data point on the edge of the boundary to $H(\mathbf x)$, and the direction that leads us to the data point the quickest from the boundary function is orthogonal to $H(\mathbf x)$ or in the same direction of $\mathbf{w}$. That's cool.
-
-Now we have to find a way of representing our data point $\mathbf x$ in terms of $\mathbf w$. We can do this with our definition of the dot product above in (3). If we divide (3) both sides by $ |\mathbf b| $, we have:
+So why did we need to prove to ourselves $\mathbf{w}$ was orthogonal to $H(\mathbf x)$? Because we wanted the shortest path from a data point on the edge of the boundary to $H(\mathbf x)$, and the direction that leads us to the data point the quickest from the boundary function is orthogonal to $H(\mathbf x)$ or in the same direction of $\mathbf{w}$. That's cool. Now we have to find a way of representing our data point $\mathbf x$ in terms of $\mathbf w$. We can do this with our definition of the dot product above in (3). If we divide (3) both sides by $||\mathbf b||$, we have:
 
 $$
 \begin{equation} \tag{3}
