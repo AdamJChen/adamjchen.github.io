@@ -92,11 +92,12 @@ $$
  $$
 
 A similar reasoning for the distance from $H(\mathbf x)$ to the negative boundary would give us:
+
 $$
 \begin{equation} \tag{7}
  \frac{|-1|}{||w||} 
  \end{equation}
- $$
+$$
 
 We were originally asked for the full boundary length so we have to add (6) and (7) together to get:
 
